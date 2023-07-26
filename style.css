@@ -10,10 +10,13 @@
 
 .attribution {
      font-size: 11px; text-align: center; 
+     color: grey;
+     margin-top:-50px ;
+     word-spacing: 2px;
     }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%);
+    color: white;
     text-decoration: none; 
 }
 
